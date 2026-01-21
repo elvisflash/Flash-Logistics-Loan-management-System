@@ -1,0 +1,65 @@
+{
+  "name": "Flash Logistics Loan Management Theme",
+  "dataColors": [
+    "#2ECC71",
+    "#E74C3C",
+    "#3498DB",
+    "#F1C40F",
+    "#8E44AD",
+    "#1ABC9C",
+    "#34495E"
+  ],
+
+  "background": "#F4F6F7",
+  "foreground": "#2C3E50",
+  "tableAccent": "#3498DB",
+
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 12,
+            "color": { "solid": { "color": "#2C3E50" } }
+          }
+        ],
+        "labels": [
+          {
+            "color": { "solid": { "color": "#2C3E50" } },
+            "fontSize": 10
+          }
+        ],
+        "background": [
+          {
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  },
+
+  "textClasses": {
+    "callout": {
+      "fontSize": 28,
+      "color": "#2C3E50",
+      "fontFamily": "Segoe UI Semibold"
+    },
+    "title": {
+      "fontSize": 14,
+      "color": "#2C3E50",
+      "fontFamily": "Segoe UI Semibold"
+    },
+    "header": {
+      "fontSize": 12,
+      "color": "#2C3E50",
+      "fontFamily": "Segoe UI"
+    },
+    "label": {
+      "fontSize": 10,
+      "color": "#566573",
+      "fontFamily": "Segoe UI"
+    }
+  }
+}
