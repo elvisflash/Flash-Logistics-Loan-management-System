@@ -228,7 +228,14 @@ This project simulates how a real lending institution would:
 
 ---
 ## 📚 Dashboard - PowerBI
-<img width="1919" height="820" alt="image" src="https://github.com/user-attachments/assets/c938ee06-17d1-4d5f-88a2-030aaaacb6fa" />
+* PAGE 1
+<img width="1494" height="810" alt="PAGE1" src="https://github.com/user-attachments/assets/38424c66-e3b6-4d84-b1c7-6751a252f6fd" />
+
+* PAGE 2
+<img width="1482" height="809" alt="PAGE2" src="https://github.com/user-attachments/assets/032ab130-9697-4209-838a-e339a7c027fd" />
+
+* PAGE 3
+<img width="1434" height="806" alt="PAGE3" src="https://github.com/user-attachments/assets/08f6b0a9-5ef1-4c30-a305-63271e2d000a" />
 
 ---
 
