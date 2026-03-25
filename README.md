@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="flashlogis.png" alt="FLASH-CASH Loan Management Services Header Logo" width="100%">
+</p>
+
 # Flash-Logistics-Loan-management-System
 Flash Logistics is a Loan Issuance and repayment system equiped and built of Excel, pivot tables, Formulas and functions, data validation and PowerBI dashboard.
 
